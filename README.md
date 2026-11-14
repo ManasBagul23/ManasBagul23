@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=FF9F1C&center=true&vCenter=true&width=900&lines=one+verified%2C+tested+fix+per+PR;reproduce+%E2%86%92+fix+%E2%86%92+red%2Fgreen+test+%E2%86%92+PR;no+drive-by+changes.+no+padding+the+backlog." alt="Typing SVG" />
 
-Daily open-source practice across OpenMS, OpenPrinting, DBpedia, Rizin and more —
+Daily open-source practice across OpenMS and OpenPrinting —
 every fix ships with a reproduction and a test that fails without it and passes with it.
 
 <br/>
@@ -47,17 +47,31 @@ C/C++ bug-hunting | Python & TypeScript fixes | NLP, LLM systems, intelligent re
 
 | Project | Area | Merged | Open |
 |---|---|---|---|
-| [OpenMS/OpenMS](https://github.com/OpenMS/OpenMS) | mass spectrometry / proteomics, C++ | 28 | 2 |
-| [OpenPrinting/cups-filters](https://github.com/OpenPrinting/cups-filters) | printing filters, C | 13 | 2 |
-| [OpenPrinting/libcupsfilters](https://github.com/OpenPrinting/libcupsfilters) | printing filters, C | 12 | 0 |
-| [rizinorg/rizin](https://github.com/rizinorg/rizin) · [rz-libdemangle](https://github.com/rizinorg/rz-libdemangle) | reverse engineering, C | 2 | 5 |
-| [dbpedia/extraction-framework](https://github.com/dbpedia/extraction-framework) · [dbpedia-lookup](https://github.com/dbpedia/dbpedia-lookup) | knowledge extraction, Scala/Java | 0 | 21 |
-| [osl-incubator/scicookie](https://github.com/osl-incubator/scicookie) | Python packaging template | 0 | 10 |
-| [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy) | desktop photo app, Python/Rust/TS | 0 | 4 |
+| [OpenMS/OpenMS](https://github.com/OpenMS/OpenMS)* | mass spectrometry / proteomics, C++ | 39 | 7 |
+| [OpenPrinting/cups-filters](https://github.com/OpenPrinting/cups-filters) | printing filters, C | 39 | 0 |
+| [OpenPrinting/libcupsfilters](https://github.com/OpenPrinting/libcupsfilters) | printing filters, C | 25 | 2 |
+| [OpenPrinting/pappl-retrofit](https://github.com/OpenPrinting/pappl-retrofit) | printer application framework, C | — | — |
+| [OpenPrinting/libppd](https://github.com/OpenPrinting/libppd) | PPD file handling, C | — | — |
+| [OpenPrinting/libcups](https://github.com/OpenPrinting/libcups) | CUPS client/server library, C | — | — |
+
+\* paused on new PRs pending a local build setup per maintainer policy; existing PRs still maintained.
 
 **How I work:** fork → verify an issue is still real and unclaimed → fix on its own
 branch → red/green test → PR. Code-traced when a local build isn't feasible,
 compiled and run in Docker or natively when it is.
+
+## Retired Open-Source Work
+
+Hunting/new PRs stopped here (existing open PRs are still kept up to date on reviewer feedback);
+kept for the standing record of merged/attempted work.
+
+| Project | Area | Merged | Open |
+|---|---|---|---|
+| [rizinorg/rizin](https://github.com/rizinorg/rizin) · [rz-libdemangle](https://github.com/rizinorg/rz-libdemangle) | reverse engineering, C | 2 | 5 |
+| [dbpedia/extraction-framework](https://github.com/dbpedia/extraction-framework) · [dbpedia-lookup](https://github.com/dbpedia/dbpedia-lookup) | knowledge extraction, Scala/Java | 0 | 21 |
+| [osl-incubator/scicookie](https://github.com/osl-incubator/scicookie) | Python packaging template | 0 | 10 |
+| [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy) | desktop photo app, Python/Rust/TS | 0 | 12 |
+| [su2code/SU2](https://github.com/su2code/SU2) | computational fluid dynamics, C++ | 3 | 0 |
 
 ---
 
