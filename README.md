@@ -47,12 +47,13 @@ C/C++ bug-hunting | Python & TypeScript fixes | NLP, LLM systems, intelligent re
 
 | Project | Area | Merged | Open |
 |---|---|---|---|
-| [OpenMS/OpenMS](https://github.com/OpenMS/OpenMS)* | mass spectrometry / proteomics, C++ | 39 | 7 |
-| [OpenPrinting/cups-filters](https://github.com/OpenPrinting/cups-filters) | printing filters, C | 39 | 0 |
-| [OpenPrinting/libcupsfilters](https://github.com/OpenPrinting/libcupsfilters) | printing filters, C | 25 | 2 |
-| [OpenPrinting/pappl-retrofit](https://github.com/OpenPrinting/pappl-retrofit) | printer application framework, C | — | — |
-| [OpenPrinting/libppd](https://github.com/OpenPrinting/libppd) | PPD file handling, C | — | — |
-| [OpenPrinting/libcups](https://github.com/OpenPrinting/libcups) | CUPS client/server library, C | — | — |
+| [OpenMS/OpenMS](https://github.com/OpenMS/OpenMS)* | mass spectrometry / proteomics, C++ | 40 | 9 |
+| [OpenPrinting/cups-filters](https://github.com/OpenPrinting/cups-filters) | printing filters, C | 40 | 0 |
+| [OpenPrinting/libcupsfilters](https://github.com/OpenPrinting/libcupsfilters) | printing filters, C | 37 | 0 |
+| [OpenPrinting/pappl-retrofit](https://github.com/OpenPrinting/pappl-retrofit) | printer application framework, C | 11 | 0 |
+| [OpenPrinting/libppd](https://github.com/OpenPrinting/libppd) | PPD file handling, C | 9 | 0 |
+| [OpenPrinting/libcups](https://github.com/OpenPrinting/libcups) | CUPS client/server library, C | 4 | 2 |
+| [OpenPrinting/cups-browsed](https://github.com/OpenPrinting/cups-browsed) | network printer discovery, C | — | — |
 
 \* paused on new PRs pending a local build setup per maintainer policy; existing PRs still maintained.
 
@@ -69,8 +70,8 @@ kept for the standing record of merged/attempted work.
 |---|---|---|---|
 | [rizinorg/rizin](https://github.com/rizinorg/rizin) · [rz-libdemangle](https://github.com/rizinorg/rz-libdemangle) | reverse engineering, C | 2 | 5 |
 | [dbpedia/extraction-framework](https://github.com/dbpedia/extraction-framework) · [dbpedia-lookup](https://github.com/dbpedia/dbpedia-lookup) | knowledge extraction, Scala/Java | 0 | 21 |
-| [osl-incubator/scicookie](https://github.com/osl-incubator/scicookie) | Python packaging template | 0 | 10 |
-| [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy) | desktop photo app, Python/Rust/TS | 0 | 12 |
+| [scistitch/scicookie](https://github.com/scistitch/scicookie) | Python packaging template | 0 | 10 |
+| [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy) | desktop photo app, Python/Rust/TS | 0 | 11 |
 | [su2code/SU2](https://github.com/su2code/SU2) | computational fluid dynamics, C++ | 3 | 0 |
 
 ---
