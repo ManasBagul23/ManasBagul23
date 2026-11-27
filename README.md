@@ -1,8 +1,29 @@
-# Manas Bagul
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:434343,65:b33939,100:ff4e50&height=170&section=header&text=Systems%20%26%20AI&fontColor=ffffff&fontSize=42&fontAlignY=38" width="100%" alt="Systems and AI" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:434343,65:b33939,100:ff4e50&height=230&section=header&text=Manas%20Bagul&fontColor=ffffff&fontSize=50&fontAlignY=37&desc=Open-Source%20Contributor%20%7C%20Bug%20Hunter%20%7C%20Systems%20%2F%20AI%20Engineer&descAlignY=58&descColor=ffe0b3&animation=fadeIn" width="100%"/>
 
-**Software Engineering · AI/ML Engineering**
+### I find and fix real bugs in C/C++, Python and TypeScript codebases
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=FF9F1C&center=true&vCenter=true&width=900&lines=one+verified%2C+tested+fix+per+PR;reproduce+%E2%86%92+fix+%E2%86%92+red%2Fgreen+test+%E2%86%92+PR;no+drive-by+changes.+no+padding+the+backlog." alt="Typing SVG" />
+
+Daily open-source practice across OpenMS and OpenPrinting —
+every fix ships with a reproduction and a test that fails without it and passes with it.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ManasBagul23&label=PROFILE+VIEWS&color=ff4e50&style=flat-square&labelColor=2a2a2a" alt="Profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/ManasBagul23?label=FOLLOWERS&style=flat-square&color=ff4e50&labelColor=2a2a2a" alt="followers"/>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ManasBagul23-ff4e50?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2a2a2a)](https://github.com/ManasBagul23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff9f1c?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2a2a2a)](https://www.linkedin.com/in/manas-bagul-5b46152a5)
+[![Email](https://img.shields.io/badge/Email-Contact-ff4e50?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=2a2a2a)](mailto:bagulmanas23@gmail.com)
+
+</div>
+
+---
 
 I build backend services, contribute fixes to C and C++ projects, and deploy ML models in containerized inference pipelines. I'm studying Computer Engineering with a focus on AI and ML at VIT Pune.
 
@@ -56,7 +77,11 @@ My work spans computer vision, traffic systems, and generative AI. Selected publ
 
 ## Contribution activity
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManasBagul23/ManasBagul23/output/github-contribution-grid-snake-dark.svg" />
   <img alt="Animated GitHub contribution grid" src="https://raw.githubusercontent.com/ManasBagul23/ManasBagul23/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</div>
