@@ -37,7 +37,7 @@ I build backend services, contribute fixes to C and C++ projects, and deploy ML 
 | **[UrbanFlow](https://github.com/ManasBagul23/Urban-Flow)** | Integrated YOLOv8 traffic violation detection with real-time Next.js dashboards, a GraphQL API, MongoDB, and role-based access. |
 | **[Cultural Bridge Game](https://github.com/ManasBagul23/Cultural-Bridge-Game)** | Built four interactive learning modes with multi-LLM orchestration and ChromaDB memory. Designed an evaluation engine covering four behavioral metrics. [Read the Springer paper](https://doi.org/10.1007/978-3-032-23577-0_13). |
 | **[Intelligent Query Retrieval](https://github.com/ManasBagul23/LLM-Powered-Intelligent-Query-Retrieval-System)** | Built a FastAPI retrieval pipeline for querying PDF and DOCX documents, with FAISS and Pinecone for semantic search. |
-| **Enterprise Inventory** | Built a Django and React B2B platform for supplier workflows, quotations, and stock tracking, with role-based access, background jobs, and notifications. |
+| **[Enterprise Inventory](https://github.com/ManasBagul23/Inventory-Management-System/tree/master/enterprise)** | Built a Django and React workspace for stock movements, supplier quotes, and buyer approvals. Role-based access keeps supplier requests scoped to each account, and a background worker delivers in-app notifications. |
 
 ## Open source
 
