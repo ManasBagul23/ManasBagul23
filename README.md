@@ -1,125 +1,62 @@
-<div align="center">
+# Manas Bagul
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:434343,65:b33939,100:ff4e50&height=230&section=header&text=Manas%20Bagul&fontColor=ffffff&fontSize=50&fontAlignY=37&desc=Open-Source%20Contributor%20%7C%20Bug%20Hunter%20%7C%20Systems%20%2F%20AI%20Engineer&descAlignY=58&descColor=ffe0b3&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:434343,65:b33939,100:ff4e50&height=170&section=header&text=Systems%20%26%20AI&fontColor=ffffff&fontSize=42&fontAlignY=38" width="100%" alt="Systems and AI" />
 
-### I find and fix real bugs in C/C++, Python and TypeScript codebases
+**Software Engineering · AI/ML Engineering**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=FF9F1C&center=true&vCenter=true&width=900&lines=one+verified%2C+tested+fix+per+PR;reproduce+%E2%86%92+fix+%E2%86%92+red%2Fgreen+test+%E2%86%92+PR;no+drive-by+changes.+no+padding+the+backlog." alt="Typing SVG" />
+I build backend services, contribute fixes to C and C++ projects, and deploy ML models in containerized inference pipelines. I'm studying Computer Engineering with a focus on AI and ML at VIT Pune.
 
-Daily open-source practice across OpenMS and OpenPrinting —
-every fix ships with a reproduction and a test that fails without it and passes with it.
+[Selected projects](#selected-projects) · [Open source](#open-source) · [Competition results](#competition-results) · [LinkedIn](https://www.linkedin.com/in/manas-bagul-5b46152a5/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=iikY890AAAAJ)
 
-<br/>
+## Selected projects
 
-<img src="https://komarev.com/ghpvc/?username=ManasBagul23&label=PROFILE+VIEWS&color=ff4e50&style=flat-square&labelColor=2a2a2a" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/ManasBagul23?label=FOLLOWERS&style=flat-square&color=ff4e50&labelColor=2a2a2a" alt="followers"/>
+| Project | What I built |
+| --- | --- |
+| **[Sentinel](https://github.com/ManasBagul23/sentinal-cpp)** | Built a multithreaded C++/eBPF pipeline that turned container execution events into graphs for CNN and graph-based anomaly detection. Project benchmarks covered **10,000+ graphs** across 25 profiles, with **0.86 anomaly F1**, **under 10 ms graph inference**, and **under 1% CPU overhead**. |
+| **[UrbanFlow](https://github.com/ManasBagul23/Urban-Flow)** | Integrated YOLOv8 traffic violation detection with real-time Next.js dashboards, a GraphQL API, MongoDB, and role-based access. |
+| **[Cultural Bridge Game](https://github.com/ManasBagul23/Cultural-Bridge-Game)** | Built four interactive learning modes with multi-LLM orchestration and ChromaDB memory. Designed an evaluation engine covering four behavioral metrics. [Read the Springer paper](https://doi.org/10.1007/978-3-032-23577-0_13). |
+| **[Intelligent Query Retrieval](https://github.com/ManasBagul23/LLM-Powered-Intelligent-Query-Retrieval-System)** | Built a FastAPI retrieval pipeline for querying PDF and DOCX documents, with FAISS and Pinecone for semantic search. |
+| **Enterprise Inventory** | Built a Django and React B2B platform for supplier workflows, quotations, and stock tracking, with role-based access, background jobs, and notifications. |
 
-<br/><br/>
+## Open source
 
-[![GitHub](https://img.shields.io/badge/GitHub-ManasBagul23-ff4e50?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2a2a2a)](https://github.com/ManasBagul23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff9f1c?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2a2a2a)](https://www.linkedin.com/in/manas-bagul-5b46152a5)
-[![Email](https://img.shields.io/badge/Email-Contact-ff4e50?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=2a2a2a)](mailto:bagulmanas23@gmail.com)
+- **OpenPrinting** · 101 merged PRs in my résumé snapshot across five upstream repositories. Worked on reliability and memory-safety fixes in the Linux printing stack. [Browse merged PRs](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AManasBagul23+org%3AOpenPrinting) · [Read the cups-filters divide-by-zero fix](https://github.com/OpenPrinting/cups-filters/pull/732).
+- **OpenMS** · 40 merged PRs in my résumé snapshot. Fixed correctness and memory-safety defects in scientific C++ code, using regression tests and AddressSanitizer for selected fixes. [Browse merged PRs](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AManasBagul23+org%3AOpenMS) · [Read the ROC AUC fix](https://github.com/OpenMS/OpenMS/pull/10956).
 
-</div>
+I reproduce issues before making a fix and write red/green regression tests when practical. Earlier open-source work includes [Rizin](https://github.com/rizinorg/rizin), [SU2](https://github.com/su2code/SU2), [DBpedia](https://github.com/dbpedia), [Scicookie](https://github.com/scistitch/scicookie), and [PictoPy](https://github.com/AOSSIE-Org/PictoPy).
 
----
+## Experience
 
-```bash
-> whoami
-open-source contributor, systems / AI engineer
-C/C++ bug-hunting | Python & TypeScript fixes | NLP, LLM systems, intelligent retrieval
-```
+- **pi-labs.ai · AI Intern** · Integrated deep learning models into containerized inference services and improved APIs, model validation, and regression testing. My résumé records 39 merged PRs across four repositories.
+- **Canspirit Artificial Intelligence · Software Engineering Intern** · Built Python and JavaScript backend services, automated data pipelines, and integrated third-party REST APIs.
+- **Vishwakarma Institute of Technology, Pune · B.Tech in Computer Engineering (AI & ML)** · 9.09/10 CGPA. Expected graduation in July 2027.
 
-## Across The Stack
+**Software:** C, C++, Python, TypeScript, Django, FastAPI, React, GraphQL, PostgreSQL, Redis, Docker, Linux  
+**AI/ML:** PyTorch, OpenCV, YOLOv8, ONNX, NVIDIA Triton, CNNs, GNNs, LLM orchestration, ChromaDB
 
-- Core engineering: `C/C++` `Python` `TypeScript` `SQL`
-- AI / ML: `PyTorch` `TensorFlow` `OpenCV` `LLMs` `RAG` `Vector Embeddings`
-- Backend and APIs: `FastAPI` `Django` `REST APIs` `MySQL` `MongoDB` `ChromaDB`
-- Systems and tooling: `Docker` `Git` `GitHub` `Automation`
+## Research
 
-## Highlights
+My work spans computer vision, traffic systems, and generative AI. Selected publications include [CNN-based document verification](https://doi.org/10.1007/978-3-032-10664-3_2), [smart traffic management](https://doi.org/10.1109/ASIANCON66527.2025.11281127), and [generative AI storytelling](https://doi.org/10.1007/978-3-032-23577-0_13). [See the full publication list on Google Scholar](https://scholar.google.com/citations?hl=en&user=iikY890AAAAJ).
 
-- Winner — InnoHack 2.0 (National-level Hackathon)
-- Finalist — Innerve X National Hackathon
+## Competition results
 
-## Active Open-Source Work
+| Hackathon | Result |
+| --- | --- |
+| InnoHack 2.0 | Winner · National-level hackathon |
+| Innerve X | Top 40 finalist |
+| HackRx 2025 | All India Rank 130 |
+| Project Morpheus | Finalist |
+| Rift 2026 | Finalist |
 
-| Project | Area | Merged | Open |
-|---|---|---|---|
-| [OpenMS/OpenMS](https://github.com/OpenMS/OpenMS)* | mass spectrometry / proteomics, C++ | 40 | 9 |
-| [OpenPrinting/cups-filters](https://github.com/OpenPrinting/cups-filters) | printing filters, C | 40 | 0 |
-| [OpenPrinting/libcupsfilters](https://github.com/OpenPrinting/libcupsfilters) | printing filters, C | 37 | 0 |
-| [OpenPrinting/pappl-retrofit](https://github.com/OpenPrinting/pappl-retrofit) | printer application framework, C | 11 | 0 |
-| [OpenPrinting/libppd](https://github.com/OpenPrinting/libppd) | PPD file handling, C | 9 | 0 |
-| [OpenPrinting/libcups](https://github.com/OpenPrinting/libcups) | CUPS client/server library, C | 4 | 2 |
-| [OpenPrinting/cups-browsed](https://github.com/OpenPrinting/cups-browsed) | network printer discovery, C | — | — |
+| Competitive programming platform | Résumé rating |
+| --- | --- |
+| [LeetCode](https://leetcode.com/u/ManasBagul/) | 1687 |
+| [CodeChef](https://www.codechef.com/users/bagulmanas23) | 1452 · 3 stars |
+| [Codeforces](https://codeforces.com/profile/bagulmanas) | 1274 · Pupil |
 
-\* paused on new PRs pending a local build setup per maintainer policy; existing PRs still maintained.
-
-**How I work:** fork → verify an issue is still real and unclaimed → fix on its own
-branch → red/green test → PR. Code-traced when a local build isn't feasible,
-compiled and run in Docker or natively when it is.
-
-## Retired Open-Source Work
-
-Hunting/new PRs stopped here (existing open PRs are still kept up to date on reviewer feedback);
-kept for the standing record of merged/attempted work.
-
-| Project | Area | Merged | Open |
-|---|---|---|---|
-| [rizinorg/rizin](https://github.com/rizinorg/rizin) · [rz-libdemangle](https://github.com/rizinorg/rz-libdemangle) | reverse engineering, C | 2 | 5 |
-| [dbpedia/extraction-framework](https://github.com/dbpedia/extraction-framework) · [dbpedia-lookup](https://github.com/dbpedia/dbpedia-lookup) | knowledge extraction, Scala/Java | 0 | 21 |
-| [scistitch/scicookie](https://github.com/scistitch/scicookie) | Python packaging template | 0 | 10 |
-| [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy) | desktop photo app, Python/Rust/TS | 0 | 11 |
-| [su2code/SU2](https://github.com/su2code/SU2) | computational fluid dynamics, C++ | 3 | 0 |
-
----
-
-## Selected Projects
-
-### Sentinal — Container Threat Detection
-Cross-modal container security framework combining CNN-based static image analysis
-with GNN-based runtime behavioral analysis — 91% classification accuracy on normal
-workloads, 86% F1-score on anomaly detection. eBPF-powered syscall monitoring,
-byte-to-image encoding (Linear and Hilbert Curve), ONNX-based CNN inference with
-Graph Attention Networks (GATv2), sub-10ms graph inference latency at <1% CPU overhead.
-
-**Repo:** [ManasBagul23/sentinal-cpp](https://github.com/ManasBagul23/sentinal-cpp)
-<br/>
-**Area:** Systems security, C++, eBPF, graph neural networks
-
-### LLM-Powered Intelligent Query Retrieval System
-Enterprise-grade RAG pipeline for querying PDFs and DOCX documents with semantic
-search and LLM reasoning. FAISS/Pinecone vector retrieval behind a FastAPI backend,
-built for legal, insurance and compliance document-intelligence workflows.
-
-**Repo:** [ManasBagul23/LLM-Powered-Intelligent-Query-Retrieval-System](https://github.com/ManasBagul23/LLM-Powered-Intelligent-Query-Retrieval-System)
-<br/>
-**Area:** RAG, LLMs, FastAPI, vector search
-
----
-
-## Publications
-
-1. UrbanFlow — Smart Traffic Management using Artificial Intelligence, IEEE ASIANCON 2025
-2. Document Verification using Deep Learning Architectures, Springer Conference Proceedings
-3. Traffic Management using Machine Learning, IEEE Conference Publication
-4. Cultural Bridge Game — Generative AI Based Storytelling for Cross-Cultural Understanding
-
----
-
-## Contribution Snake
-
-<div align="center">
+## Contribution activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/ManasBagul23/ManasBagul23/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/ManasBagul23/ManasBagul23/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/ManasBagul23/ManasBagul23/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManasBagul23/ManasBagul23/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Animated GitHub contribution grid" src="https://raw.githubusercontent.com/ManasBagul23/ManasBagul23/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
